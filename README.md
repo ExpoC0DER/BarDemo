@@ -3,7 +3,7 @@
 - Zakladny character controller je z Unity First Person dema.
 
 # Co som pridal.
-- On screen joystick sa automaticky zobrazia kde hrac klikol.
+- On screen joysticky sa automaticky zobrazia kde hrac klikol.
 - Zvuky kracania sa randomizuju a menia podla podlahy. (rozne na podlahe a schodoch).
 - Zvuky kracania sa nespustaju ked hrac kraca do steny aby sme vedeli ze sa nehybeme.
 - Zvuk hadzania sipok. 
