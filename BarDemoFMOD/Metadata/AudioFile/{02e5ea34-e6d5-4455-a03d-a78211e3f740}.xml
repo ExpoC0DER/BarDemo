@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{02e5ea34-e6d5-4455-a03d-a78211e3f740}">
+		<property name="assetPath">
+			<value>ElevenLabs_2023-12-05T00_03_44_Daniel.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.0710204081632653</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{35ff98db-f7dc-48f3-a6c2-57c466b2974a}</destination>
+		</relationship>
+	</object>
+</objects>

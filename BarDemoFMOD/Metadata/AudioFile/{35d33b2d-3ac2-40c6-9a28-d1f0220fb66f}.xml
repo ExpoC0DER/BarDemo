@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{35d33b2d-3ac2-40c6-9a28-d1f0220fb66f}">
+		<property name="assetPath">
+			<value>Hardwood_Boots_FullStep_05.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.37670833333333331</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{35ff98db-f7dc-48f3-a6c2-57c466b2974a}</destination>
+		</relationship>
+	</object>
+</objects>

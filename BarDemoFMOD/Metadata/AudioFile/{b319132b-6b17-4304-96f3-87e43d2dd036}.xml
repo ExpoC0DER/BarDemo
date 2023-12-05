@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b319132b-6b17-4304-96f3-87e43d2dd036}">
+		<property name="assetPath">
+			<value>EFX EXT GROUP Unrest Murmur 01 A.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>74.287541666666669</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{35ff98db-f7dc-48f3-a6c2-57c466b2974a}</destination>
+		</relationship>
+	</object>
+</objects>
