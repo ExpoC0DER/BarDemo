@@ -11,3 +11,6 @@
 - Atmosfera nie je jeden zvuk ale zdroje sumu pri kazdom stole osobitne.
 - Barman na nas vola dvoma sposobmy.
 - Ked prideme k barmanovi mame kratky dialog a uz po nas nevola.
+
+# Pripomienky
+- Implementacia fmodu len par zakladnych funkcii rovnako ako novy input system v unity ten este velmi neovladam.
